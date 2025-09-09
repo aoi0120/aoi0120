@@ -2,8 +2,8 @@
   Activity
 </h3>
   
-<img src="https://github-readme-stats.vercel.app/api?username=aoi0120&show_icons=true&theme=calm" width="49.5%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoi0120&layout=compact&theme=calm" width="49.5%" />
+![](https://github-readme-stats.vercel.app/api?username=aoi0120&theme=onedark&show_icons=ture)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aoi0120&theme=onedark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=aoi0120&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h3>
   Stacks
@@ -34,4 +34,4 @@
 </h4>
 
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,supabase,vercel,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,supabase,vercel,docker,postman,aws,cloudflare,figma)](https://skillicons.dev)
