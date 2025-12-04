@@ -2,9 +2,9 @@
   Activity
 </h3>
   
-![](https://github-readme-stats.vercel.app/api?username=aoi0120&theme=onedark&show_icons=ture)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aoi0120&theme=onedark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=aoi0120&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aoi0120&theme=onedark&show_icons=true)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aoi0120&theme=onedark)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=aoi0120&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <h3>
   Stacks
 </h3>
